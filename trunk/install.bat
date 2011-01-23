@@ -1,1 +1,0 @@
-mvn install:install-file -Dfile=gwt-dev.jar -DgroupId=com.google.gwt  -DartifactId=gwt-dev -Dversion=2.1-SNAPSHOT -Dpackaging=jar -DgeneratePom=true
