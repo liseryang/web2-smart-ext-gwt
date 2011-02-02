@@ -22,8 +22,8 @@ import com.smartgwt.client.widgets.grid.events.RecordClickHandler;
 import com.smartgwt.client.widgets.layout.VStack;
 import com.smartgwt.client.widgets.toolbar.ToolStrip;
 import com.smartgwt.client.widgets.viewer.DetailViewer;
-import masterjava.web2.service.GreetingService;
-import masterjava.web2.service.GreetingServiceAsync;
+import masterjava.web2.smartgwt.service.GreetingService;
+import masterjava.web2.smartgwt.service.GreetingServiceAsync;
 
 /**
  * User: GKislin
