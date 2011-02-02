@@ -12,10 +12,8 @@
     <url>http://www.masterjava.ru</url>
 
     <modules>
-        <module>smartgwt</module>
         <module>common</module>
         <module>common-test</module>
-        <module>gxt</module>
         <module>shared</module>
         <module>client</module>
         <module>server</module>
