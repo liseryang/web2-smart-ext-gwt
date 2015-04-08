@@ -1,0 +1,1 @@
+Web2-SmartExtGWT (one of <a href='http://masterjava.ru>masterjava</a'> project) is an open source project and application that uses open source tools built on the Java platform to help you develop Web applications quickly and efficiently. At its core, Masterjava projects is a fast start project skeleton on dedicated technology stack: Hibernate/ Spring/ Spring MVC/ SmartGWT/ GXT
